@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josePereiro)](https://github.com/josePereiro/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
